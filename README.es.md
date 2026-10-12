@@ -140,4 +140,4 @@ respectivos titulares y no están cubiertas por esta licencia; ver [LEGAL.md](LE
 
 ## Apoyo
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V4I625QFV8)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neo236)

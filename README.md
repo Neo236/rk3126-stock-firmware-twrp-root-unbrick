@@ -139,4 +139,4 @@ copyright holders and are not covered by this license; see [LEGAL.md](LEGAL.md).
 
 ## Support
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V4I625QFV8)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neo236)
