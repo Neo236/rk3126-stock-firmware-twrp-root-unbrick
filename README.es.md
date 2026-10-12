@@ -15,8 +15,10 @@ identificadores de **Polaroid**, **X-View** y **Skyth-tek**.
 
 ## Descargas
 
-Los binarios se publican como archivos de la release, no dentro del repositorio:
-[**Releases**](https://github.com/Neo236/rk3126-stock-firmware-twrp-root-unbrick/releases)
+Los binarios no están dentro del repositorio. Los dos espejos tienen los mismos archivos:
+
+- [**GitHub Releases**](https://github.com/Neo236/rk3126-stock-firmware-twrp-root-unbrick/releases)
+- [**Internet Archive**](https://archive.org/details/rk3126-tablet-pc-lmy48y-stock-firmware-20160831), que además ofrece cada imagen de partición por separado
 
 | Archivo | Tamaño | Contenido |
 |---|---|---|

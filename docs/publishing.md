@@ -82,7 +82,7 @@ ia upload rk3126-tablet-pc-lmy48y-stock-firmware-20160831 \
 The loose small images let people grab a single partition without downloading a zip. `system.img` goes in only as a zip
 (the raw 1.5 GiB is mostly empty space). New items take minutes to hours to appear.
 
-Then add the Internet Archive item link to the Downloads section of both READMEs.
+Published item: <https://archive.org/details/rk3126-tablet-pc-lmy48y-stock-firmware-20160831>.
 
 ## 4. Optional
 

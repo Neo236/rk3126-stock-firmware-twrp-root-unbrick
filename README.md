@@ -14,8 +14,10 @@ contains **Polaroid**, **X-View** and **Skyth-tek** identifiers.
 
 ## Downloads
 
-Binaries are published as release assets, not stored in the repository:
-[**Releases**](https://github.com/Neo236/rk3126-stock-firmware-twrp-root-unbrick/releases)
+Binaries are not stored in the repository. Both mirrors host the same files:
+
+- [**GitHub Releases**](https://github.com/Neo236/rk3126-stock-firmware-twrp-root-unbrick/releases)
+- [**Internet Archive**](https://archive.org/details/rk3126-tablet-pc-lmy48y-stock-firmware-20160831), which also offers each partition image individually
 
 | Archive | Size | Contents |
 |---|---|---|
