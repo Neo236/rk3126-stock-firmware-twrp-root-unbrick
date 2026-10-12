@@ -1,0 +1,6 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+device/* text eol=lf
+SHA256SUMS text eol=lf
+device/parameter.txt -text

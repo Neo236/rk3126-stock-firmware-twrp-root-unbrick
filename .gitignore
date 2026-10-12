@@ -1,0 +1,9 @@
+# Binaries are published as release assets, never committed.
+firmware/
+dist/
+dump/
+*.img
+*.bin
+*.zip
+*.xz
+*.7z
